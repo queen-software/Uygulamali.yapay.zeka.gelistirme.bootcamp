@@ -12,3 +12,7 @@
 • Joblib/Pickle 
 • Modelin tekrar kullanılması 
 • Uçtan uca ML Pipeline geliştirme
+
+
+## Sorular
+Ascii character, Unicode character?
